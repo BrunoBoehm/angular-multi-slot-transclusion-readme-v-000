@@ -2,7 +2,7 @@
 
 ## Overview
 
-One other awesome thing that transclusion offers is the concept of multi-slow transclusion. This allows us to pick at different elements in our transclusded content and put them wherever we like.
+One other awesome thing that transclusion offers is the concept of multi-slot transclusion. This allows us to pick different elements in our transclusded content and put them wherever we like.
 
 ## Objectives
 
