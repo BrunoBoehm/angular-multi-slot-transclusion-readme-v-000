@@ -15,6 +15,8 @@ One other awesome thing that transclusion offers is the concept of multi-slow tr
 
 Instead of a string or a boolean value, to do multi-slot transclusion, we pass through an object.
 
+We might use multi-slot transclusion when we want to move certain elements into different positions in our directives templates, instead of just putting them all in one place. We might want to wrap an image with a link or a user profile with an image.
+
 The properties on this object are what we want to name our slots. For instance, if we've got this setup for our directive:
 
 ```html
