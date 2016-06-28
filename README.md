@@ -2,7 +2,7 @@
 
 ## Overview
 
-One other awesome thing that transclusion offers is the concept of multi-slot transclusion. This allows us to pick different elements in our transclusded content and put them wherever we like.
+One other awesome thing that transclusion offers is the concept of multi-slot transclusion. This allows us to pick different elements in our transcluded content and put them wherever we like.
 
 ## Objectives
 
@@ -105,3 +105,5 @@ angular
 ```
 
 Now we use our directive with and without specifying a `<h6>` element. If there isn't a `<h6>` element, the contents of our `<span ng-transclude="position">` will be displayed instead, meaning we can gracefully show different content if there is no position specified.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/angular-multi-slot-transclusion-readme'>Angular Multi-slot Transclusion </a> on Learn.co and start learning to code for free.</p>
